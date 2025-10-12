@@ -23,6 +23,14 @@ Consequences:
 
 ### [React Concurrency](https://github.com/bvaughn/rfcs/blob/useMutableSource/text/0000-use-mutable-source.md)
 
+React Reconciler
+
+<https://www.youtube.com/watch?v=CGpMlWVcHok> Building a Custom React Renderer | Sophie Alpert
+
+Prefer `Render-as-You-Fetch` with Suspense
+
+<https://ithelp.ithome.com.tw/articles/10360013> 三種 React 資料請求策略：從 fetch-on-render 到 render-as-you-fetch
+
 ### [Context Loss](https://github.com/facebook/react/issues/13332)
 
 ## Why Zustand

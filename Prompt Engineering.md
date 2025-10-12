@@ -14,6 +14,8 @@
 
 Cumulative Alternate Cutoff
 
+#### Top-K
+
 ## Tokens
 
 1 token = 0.75 word
@@ -109,11 +111,12 @@ Consistent Form
 
 ## Chain of Thought
 
-Do work step by step to examine the result
+Magic Sentence of first line
 
-Let's think step by step
+`Let's think step by step`
 
 ## Favouritism
 
 - Toss a coin? (Randomness)
-¬¬
+
+<https://www.ibm.com/think/prompt-engineering> Prompt Engineering Guide
